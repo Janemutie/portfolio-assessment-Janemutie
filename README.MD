@@ -1,3 +1,6 @@
+### Live Deployed Link
+https://janemutie.github.io/portfolio-assessment-Janemutie/
+
 ### index.html
 This page takes you to my home page where it tells you
 1.Who i am
