@@ -32,3 +32,5 @@ This page tells you
 2.Media queries
 3.Flexbox in my Photos and Headers
 4.DOM Manipulation using javascript...this was implemented in the button that when clicked changes background color
+
+Semantic approach was updated
